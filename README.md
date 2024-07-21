@@ -1,4 +1,4 @@
-# Projeto MongoDB com Spring Boot
+# Projeto API Restful com Spring Boot e MongoDB
 
 # Sobre o projeto
 É um projeto desenvolvido com Spring Boot e MongoDB, e minha primeira experiência de acesso a dados em um banco de dados NoSQL.
